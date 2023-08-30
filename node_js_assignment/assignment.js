@@ -25,6 +25,6 @@ var server = http.createServer(function(req,res){
     }
 })
 
-server.listen(6080,function(){
+server.listen(3000,function(){
     console.log('Node Js server run.......');
 })
